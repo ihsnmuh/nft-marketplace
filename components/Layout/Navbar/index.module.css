@@ -1,0 +1,8 @@
+.container {
+  height: 89px;
+  background-color: #1b1e2a;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  gap: 1rem;
+}
